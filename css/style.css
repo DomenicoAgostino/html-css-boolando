@@ -6,7 +6,7 @@
 
 .row {
   text-align: center;
-  width: 80%;
+  width: 60%;
   margin: 30px auto;
 }
 
@@ -15,3 +15,36 @@
   width: 33%;
 
 }
+
+.clothes img {
+  width: 100%;
+
+}
+
+p {
+  text-align: left;
+  
+}
+
+.clothes p.text-name {
+  text-align: left;
+  font-size: 10px;
+}
+
+.clothes p.text-description {
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p.sales {
+  color: red;
+
+  
+}
+
+span.original-price {
+  text-decoration: line-through;
+}
+
+
