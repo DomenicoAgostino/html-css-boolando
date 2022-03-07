@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.row {
+  text-align: center;
+  width: 80%;
+  margin: 30px auto;
+}
+
+.clothes {
+  display: inline-block;
+  width: 33%;
+
+}
