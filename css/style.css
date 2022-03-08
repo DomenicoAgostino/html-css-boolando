@@ -10,10 +10,10 @@
   width: 60%;
   margin: 30px auto;
 }
-
+                 
 .clothes {
   display: inline-block;
-  width: 33%; 
+  width: 33%;
   margin-bottom: 50px;
   position: relative;
 
@@ -64,8 +64,11 @@ div.eco {
 
 .clothes .photo {
   width: 100%;
-  display: block;
 
+
+}
+.special {
+  width: 100%;
 }
 
 .special {
@@ -78,7 +81,7 @@ div.eco {
 }
 
 .clothes:hover .special{
-  display: block;
+  display: inline-block
 }
 
 
